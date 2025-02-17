@@ -55,3 +55,8 @@ Unich-Airdrop is a Node.js automation script that interacts with the Unich API t
 
 Note: Set proxies from 2CAPTCHA with format "socks5://login:pass@ip:port"
 Not in Unich yet? - Get started today with my link and this code - https://unich.com/en/airdrop/sign-up?ref=5AI4S4
+
+## How to Obtained Bearer Token
+
+1. Go to https://unich.com/en/airdrop - Log In your account & Press F12
+2. Go to Network & Filter Fetch/XHR Requests, select any of them and you'll see it Example here: https://prnt.sc/YCMN_w7_8LSP (Do not copy the word "Bearer").
