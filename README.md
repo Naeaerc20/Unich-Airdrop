@@ -54,3 +54,4 @@ Unich-Airdrop is a Node.js automation script that interacts with the Unich API t
 
 
 Note: Set proxies from 2CAPTCHA with format "socks5://login:pass@ip:port"
+Not in Unich yet? - Get started today with my link and this code - https://unich.com/en/airdrop/sign-up?ref=5AI4S4
